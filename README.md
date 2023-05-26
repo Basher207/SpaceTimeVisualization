@@ -16,9 +16,8 @@ https://www.youtube.com/watch?v=WABOby38suI
 **Space:** Toggle overview mode.<br />
 **R:** Restart the visualization.<br />
 
-# Controls
-
 # Legend
+
 <br /><br /><br />
 Height is proprtional to gravitational potential<br />
 Colores indicate acceleration
