@@ -4,7 +4,7 @@ Space time visualization, to help illustrate lagrange points, and gravitational 
 ![Preview Image](./Docs/ReadMePreviewImage.png)
 
 Webgl Build URL:<br />
-https://basher207.github.io/HostedGames/GravityVisualisation/SpaceTimeVisualizer-WebGL
+https://basher207.github.io/HostedGames/GravityVisualisation/SpaceTimeVisualizer-WebGL<br />
 Youtube video:<br />
 https://www.youtube.com/watch?v=WABOby38suI
 
@@ -16,13 +16,18 @@ https://www.youtube.com/watch?v=WABOby38suI
 **Space:** Toggle overview mode.<br />
 **R:** Restart the visualization.<br />
 
+# Controls
+
+# Legend
 <br /><br /><br />
-Hight is proprtional to gravitational potential<br />
+Height is proprtional to gravitational potential<br />
 Colores indicate acceleration
 <br />
 
 **Blue/Steep:** Indicates high acceleration.<br />
-**Red/Flat:** Signifies low acceleration.
+**Red/Flat:** Signifies low acceleration.<br />
+
+When in rotational reference frame, everything is switched to be relative to the biggest planet in the system.<br />
 
 <br /><br /><br />
 When the rotational reference frame mode is active (activated with **Tab**), space time is altered to show gravitational potential relative to the system's largest planet.<br />
